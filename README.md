@@ -30,6 +30,7 @@
 
 - [censys](https://censys.io)
 - [shodan](https://shodan.io )
+- [CriminalIP](https://www.criminalip.io/)
 - [greynoise](https://viz.greynoise.io)
 - [zoomeye](https://zoomeye.org)
 - [netograph](https://netograph.io)
